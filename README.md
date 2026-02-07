@@ -1,6 +1,6 @@
 ## NOH JUHO `happysttim`
 
-개발 고수 지망생.
+<img src="./assets/my-picture.jpg" width="200">
 
 ## Skills
 
