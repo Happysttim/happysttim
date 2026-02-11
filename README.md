@@ -32,7 +32,7 @@
 
 ## Contacts
 
-[![Naver Mail](https://img.shields.io/badge/NaverMail-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:gmlsdyd1023@naver.com)
+[![Contact-Mail](https://img.shields.io/badge/contact@happysttim.dev-blue?logo=gmail&logoColor=white)](mailto:contact@happysttim.dev)
 
 <!--
 **Happysttim/happysttim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
